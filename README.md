@@ -32,10 +32,10 @@ Hoje trabalho principalmente com **React**, **Node** e **PostgreSQL**.
 ### Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="[https://www.linkedin.com/in/SEU-LINKEDIN-AQUI](https://www.linkedin.com/in/olavomenezes/)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="28" width="28" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU-EMAIL-AQUI">
+  <a href="mailto:menezesolavo7@gmail.com>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="28" width="28" alt="Email" />
   </a>
 </div>
